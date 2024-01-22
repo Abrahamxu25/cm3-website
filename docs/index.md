@@ -1,5 +1,5 @@
 ---
-title: Home Page: different breed
+title: "Home Page: different breed"
 ---
 
 This is the home page of Rahul's CM3 website.
